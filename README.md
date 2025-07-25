@@ -17,7 +17,7 @@ Expand operations in the **West Region** based on consistent performance across 
 
 ## 📁 Project Files
 - `Sample - Superstore.csv` – Dataset
-- `Market Expansion Dashboard.xlsx` – Excel dashboard with charts and slicers
+- `Market Expansion Dashboard.xlsx` – Excel dashboard with charts and slicers( The Excel workbook used for analysis is available upon request )
 - `Market Expansion Strategy Report.pdf` – Final report
 - `Market Expansion Presentation.pptx` – Slides
 - `dashboard_screenshot.png` – Dashboard preview
